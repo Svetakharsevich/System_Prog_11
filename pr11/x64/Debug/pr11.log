@@ -1,0 +1,11 @@
+﻿  pr11.cpp
+D:\Сис. прог\task11\pr11\resource.h(16,1): warning C4005: IDOK: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11117): message : см. предыдущее определение "IDOK"
+D:\Сис. прог\task11\pr11\resource.h(17,1): warning C4005: IDCANCEL: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(11118): message : см. предыдущее определение "IDCANCEL"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(1433): warning RC4005: 'IDOK' : redefinition
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.rh(1434): warning RC4005: 'IDCANCEL' : redefinition
+  
+LINK : warning LNK4076: недопустимый файл инкрементного состояния "x64\Debug\pr11.ilk" (будет удален); неинкрементная компоновка
+  pr11.vcxproj -> D:\Сис. прог\task11\pr11\x64\Debug\pr11.exe
